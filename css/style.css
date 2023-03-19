@@ -25,7 +25,7 @@ ul,li{
     padding: 25px ;
     }
     .navbar_list{
-        margin-left: 200px;
+        margin-left: 180px;
         display: flex;
         align-items: center;
         gap: 80px;
