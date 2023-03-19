@@ -118,4 +118,73 @@ header {
 
 /* ------------header end--------- */
 
+/* ============================== section 1 && 4 start ==================== */
 
+.popular {
+    padding-top: 90px;
+    padding-bottom: 70px;
+}
+
+.popular h5{
+    
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 58px;
+text-align: center;
+color: #0B254B;
+}
+
+.popular   p{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+text-align: center;
+letter-spacing: 0.1px;
+color: #5E6E89;
+margin-top: 15px;
+margin-bottom: 17px;
+}
+
+
+.popular .col-3{
+    width: 255px;
+filter: drop-shadow(0px 4px 24px rgba(123, 123, 123, 0.15));
+margin-left: 30px;
+}
+
+
+.bottom{
+    background: #FFFFFF;
+    padding: 10px 26px 16px 26PX;
+}
+
+
+.popular  .col-3  .bottom p{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 28px;
+display: flex;
+align-items: center;
+letter-spacing: -0.9px;
+color: #1D293F;
+}
+.popular  .col-3 .bottom span{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 28px;
+text-align: right;
+color: #56B280;
+display: block;
+text-align: end;
+}
+
+
+/* ============================== section 1 && 4 end ==================== */
