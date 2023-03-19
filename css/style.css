@@ -195,7 +195,7 @@ text-align: end;
 
 
 
-/* ---------------------Section 2----------------- */
+/* ---------------------Section 2  start----------------- */
 
 
 .section2{
@@ -255,4 +255,171 @@ text-align: end;
     width: 100%;
 }
 
-/* ---------------------Section end----------------------- */
+/* ---------------------Section 2  end----------------------- */
+
+
+/* ---------------------Section 3 start----------------------- */
+
+
+.people{
+    padding: 90px 0px;
+    background: rgba(86, 178, 128, 0.1);
+    margin-top: 200px;
+}
+
+.t_people {
+    display: flex;
+    gap: 31px;
+}
+
+.testimonial{
+    width: 350px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 24px rgba(139, 167, 178, 0.16);
+    border-radius: 6px;
+    padding: 33px 18px 29px 28px ;
+}
+
+
+
+
+.t_gen{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.1px;
+    color: #5E6E89;
+}
+
+
+.t_sect{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 58px;
+text-align: center;
+letter-spacing: -0.9px;
+color: #0B254B;
+margin-bottom: 27px;
+margin-top: 15px;
+}
+
+
+.testimonial .individual{
+    display: block;
+    margin: auto;
+}
+
+
+
+.testimonial .stars{
+    display: flex;
+    gap: 5.19px;
+    display: block;
+    text-align: center;
+    margin-right: 10px;
+}
+
+
+
+.testimonial h4{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 29px;
+text-align: center;
+color: #1D293F;
+margin-top: 22px;
+margin-bottom: 10px;
+}
+
+.testimonial span{
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+color: #7C8087;
+display: block;
+margin-right: 15px;
+}
+
+
+/* ---------------------Section 3 end----------------------- */
+
+
+
+
+
+/* ================= footer start ============== */
+
+
+footer{
+    background: #272727;
+    padding: 60px 165px 115px;
+}
+
+
+.candleaf_footer{
+    border-top: 1.5px solid #FFFFFF ;
+    padding-top: 15px;
+}
+
+
+
+.end_text{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 23px;
+letter-spacing: -0.5px;
+color: #FFFFFF;
+margin-top: 10px;
+}
+
+
+
+
+
+
+footer .candleaf_footer .col-9 ul li a {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 29px;
+color: #E1E1E1;
+transition: 0.3s ease-in-out;
+text-decoration: none;
+margin-bottom: 24px;
+list-style: none;
+}
+
+
+footer .candleaf_footer .col-9 ul li a:hover{
+    color: #56B280;
+}
+
+footer .candleaf_footer .col-9 ul li span{
+    font-family: 'Avenir';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 29px;
+color: #56B280;
+}
+
+.same{
+    display: flex;
+   gap: 37px;   
+   justify-content: end; 
+}
+
+/* ===================== footer end */
