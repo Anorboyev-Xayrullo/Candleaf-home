@@ -189,4 +189,70 @@ text-align: end;
 }
 
 
+
 /* ============================== section 1 && 4 end ==================== */
+
+
+
+
+/* ---------------------Section 2----------------- */
+
+
+.section2{
+    margin-top: 100px;
+}
+.section_main h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    color: #1D252C;
+    margin-bottom: 30px;
+}
+
+
+.made {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #56B280;
+}
+
+.section_main div {
+    display: flex;
+    align-items: center;
+}
+
+.section_main p {
+    margin-left: 10px;
+    margin-top: 15px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    color: #000000;
+}
+
+.learn {
+    margin-top: 30px;
+    padding: 10px 20px;
+    border: none;
+    background: #56B280;
+    border-radius: 4px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20.6452px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+
+.mosk{
+    width: 100%;
+}
+
+/* ---------------------Section end----------------------- */
