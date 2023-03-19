@@ -28,7 +28,7 @@ ul,li{
         margin-left: 200px;
         display: flex;
         align-items: center;
-        gap: 100px;
+        gap: 80px;
     }
     
     .navbar_list li{
